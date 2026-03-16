@@ -1,6 +1,6 @@
 # LearnHub - Learning Management System
 
-A modern LMS platform built with Next.js 14+ (App Router), TypeScript, and Tailwind CSS — similar to Kodemy.
+A modern LMS platform built with Next.js 14+ (App Router), TypeScript, and Tailwind CSS
 
 ## Tech Stack
 
